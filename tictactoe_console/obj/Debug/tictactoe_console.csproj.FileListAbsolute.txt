@@ -1,0 +1,7 @@
+C:\Users\somet\source\repos\tictactoe_console\tictactoe_console\bin\Debug\tictactoe_console.exe.config
+C:\Users\somet\source\repos\tictactoe_console\tictactoe_console\bin\Debug\tictactoe_console.exe
+C:\Users\somet\source\repos\tictactoe_console\tictactoe_console\bin\Debug\tictactoe_console.pdb
+C:\Users\somet\source\repos\tictactoe_console\tictactoe_console\obj\Debug\tictactoe_console.csprojAssemblyReference.cache
+C:\Users\somet\source\repos\tictactoe_console\tictactoe_console\obj\Debug\tictactoe_console.csproj.CoreCompileInputs.cache
+C:\Users\somet\source\repos\tictactoe_console\tictactoe_console\obj\Debug\tictactoe_console.exe
+C:\Users\somet\source\repos\tictactoe_console\tictactoe_console\obj\Debug\tictactoe_console.pdb
